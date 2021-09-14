@@ -46,6 +46,7 @@ export default function MemberForm(props) {
                         <option value="">-- Select a Role --</option>
                         <option value="Leader">Leader</option>
                         <option value="FE Engineer">Front-End Engineer</option>
+                        <option value="BE Engineer">Back-End Engineer</option>
                         <option value="Web Designer">Web Designer</option>
                     </select>
                 </label>
